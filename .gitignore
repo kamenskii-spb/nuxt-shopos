@@ -1,0 +1,11 @@
+.idea
+.vscode
+node_modules
+static/cache/*
+static/catalog/*
+server/keys/keys.dev.js
+npm-debug.log
+.nuxt
+dist
+
+
